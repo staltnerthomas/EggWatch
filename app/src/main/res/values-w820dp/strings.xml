@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="textView_softly">weich</string>
+    <string name="textView_how_should_it_be">Wie möchten sie ihr Ei?</string>
+    <string name="button_start_boil">Mein Wasser kocht und ich hab\'s gerade rein gegeben.</string>
+</resources>

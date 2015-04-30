@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">EggWatch</string>
+    <string name="action_settings">Settings</string>
+    <string name="textView_softly">weich</string>
+    <string name="textView_medium">medium</string>
+    <string name="textView_hard">hart</string>
+    <string name="textView_size_small">hmm klein</string>
+    <string name="textView_size_medium">naja mittel</string>
+    <string name="textView_size_big">ja schon groß</string>
+    <string name="textView_how_should_it_be">Ich möchte mein Ei...</string>
+    <string name="textView_my_egg_is_...">Mein Ei ist ...</string>
+    <string name="button_start_boil">Mein Wasser kocht und ich hab\'s gerade rein gegeben.</string>
+</resources>
